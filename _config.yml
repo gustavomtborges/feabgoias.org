@@ -1,8 +1,8 @@
 # Site
-title:              Massively
-bio:                'Jekyll version of the Massively theme by HTML5UP'
-description:        "Jekyll version of the Massively theme by HTML5UP"
-locale:             en_US
+title:              FEAB-GO
+bio:                'Federação das Associações de Benefícios do Estado de Goiás – FEAB-GO'
+description:        "Federação das Associações de Benefícios do Estado de Goiás – FEAB-GO"
+locale:             pt_BR
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 
@@ -35,15 +35,12 @@ disqus_shortname:   default
 
 # Social
 analytics-id:       "default"
-twitter:            default
-facebook:           default
-instagram:          default
-github:             default
+facebook:           feabgoias
 
 # personal
-location:           Los Angeles, CA
-phone:              310-318-5555
-email:              info@default.com
+location:           Goiânia - GO
+phone:              62 3030 4040
+email:              feabgoias@gmail.com
 
 # Gems
 gems:
