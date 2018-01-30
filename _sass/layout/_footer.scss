@@ -9,6 +9,7 @@
 	#footer {
 		@include color(alt);
 		@include vendor('display', 'flex');
+		@include vendor('flex-direction', 'column');
 		background-color: _palette(alt, bg);
 		color: _palette(fg-light);
 		cursor: default;
@@ -19,7 +20,7 @@
 		z-index: 2;
 
 		> section {
-			@include vendor('flex-basis', '50%');
+			@include vendor('flex-basis', '100%');
 			@include vendor('flex-grow', '1');
 			@include vendor('flex-shrink', '1');
 			@include padding((_size(padding) * 2), (_size(padding) * 2));

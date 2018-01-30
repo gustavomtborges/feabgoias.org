@@ -1,27 +1,48 @@
 ---
 layout: page
-title: Jekyll Theme - About - Massively
+title: A FEAB-GO - Sobre Nós
 description: When building a website it's helpful to see what the focus of your site is. This page is an example of how to show a website's focus.
 sitemap:
     priority: 0.7
     lastmod: 2017-11-02
     changefreq: weekly
 ---
-## About our Site
+## FEDERAÇÃO DAS ASSOCIAÇÕES DE BENEFÍCIOS DO ESTADO DE GOIÁS - FEAB-GO
 
-<span class="image left"><img src="{{ "/images/pic04.jpg" | absolute_url }}" alt="" /></span>
+Em 2011 verificou a necessidade da criação de uma federação para congregar
+associações que tinham como objetivo o socorro mútuo e obtenção de benefícios de
+forma coletiva aos seus associados.
 
-Making steady content and conveying it well takes a great deal of research and, hence, time and exertion. Building a profound established comprehension of your target customer needs is critical as your principle objective ought to be to fulfill their requirements as awesome content. You should need to enhance their lives. Having significant content like this may not be simple by any methods. Be that as it may, in any case, it's a fundamental apparatus in the event that you expect to grow a fruitful and supportable business in the present web focused world.
+Tal ideia surgiu da falta de uma entidade que pudesse assistir as associadas, promover
+cursos, simpósios, congressos sobre o associativismo e socorro mútuo, incentivar a
+pesquisa, criar condições de troca de conteúdo e informações entre as associadas,
+realizar treinamento e orientações, promover cursos profissionalizantes sobre o
+associativismo e socorro mútuo e também para defender o respeito à Constituição, as
+garantias individuais, a liberdade de associação e incentivo as modalidades
+associativas.
 
-Receiving the benefits of content is a certain something. Be that as it may, it's so substantially less demanding once you begin conveying all the more successfully. The profitable content thought isn't just about bragging your item's capacities and general worth or your organization's achievements. You should concentrate less on advertising how awesome your item is and rather concentrate on indicating how valuable it is. This is a client focused approach as it concentrates on their issues and your answer for them. Making yourself fundamental is critical.
+Assim foi fundada a Federação das Associações de Benefícios do Estado de Goiás –
+FEAB-GO. Dentre seus objetos podemos citar como o mais importante a fiscalização
+das atividades desenvolvidas por suas filiadas e a verificação de cumprimento das
+obrigações assumidas em regulamentos internos, o aprimoramento e treinamento dos
+diretores e colaboradores e a assistência as associadas.
 
-### Content is Imortant
+Para obter o título de filiada a FEAB-GO associações de socorro mútuo/rateio de
+despesas devem participar de um processo de seleção o qual são analisados vários
+pontos como: relação com associado, benefícios, cumprimentos de seus objetos, etc.
+Por tais razões a associação filiada tem maior credibilidade e certeza de que cumpre
+todos os seus objetivos e tem ótimo relacionamento com seus associados.
+
+### Lei nº. 18.835 de 19 de maio de 2015
 <div class="box">
   <p>
-  In saying that, a one-measure fits-all approach won't do the trick with regards to content promoting. Rather, an emphasis on making remarkable, high caliber and totally genuine content that is engaging, helpful and fascinating for customers will get you the crown. From content, video and symbolism to infographics, studies, online courses and podcasts, whatever your favored content medium is, guarantee it is shareable and pertinent to your industry.
+  No ano de 2015, em razão da atividade exercida em prol do associativismo e
+acompanhamento das associações de socorro mútuo do Estado de Goiás e, principalmente das
+filiadas, a Federação das Associações de Benefícios do Estado de Goiás – FEAB-GO,
+por meio da Lei nº. 18.835 de 19 de maio de 2015, foi declarada pelo Governo de Goiás
+como entidade de utilidade pública.
   </p>
+  <span>Acesse a lei pelo link a baixo:</span>
+  <br />
+  <a href="http://www.gabinetecivil.go.gov.br/pagina_leis.php?id=12900" target="blank">Lei nº. 18.835 de 19 de maio de 2015</a>
 </div>
-
-<span class="image left"><img src="{{ "/images/pic05.jpg" | absolute_url }}" alt="" /></span>
-
-On social media, we may share our own thoughts and advance our image notwithstanding spreading musings for different associations and affiliations. With such a critical number of associations with people and relationship on social media, our experience can be over-burden with a considerable measure of information.
