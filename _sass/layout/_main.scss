@@ -155,4 +155,15 @@
 		@include breakpoint(xsmall) {
 			width: 100%;
 		}
+
+		.home__logos {
+			display: flex;
+			flex-wrap: wrap;
+			justify-content: space-around;
+		}
+
+		.home__logos-item {
+			margin: 5px;
+			flex-basis: auto;
+		}
 	}
