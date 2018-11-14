@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/gustavomtborges/feabgoias.org.svg?branch=master)](https://travis-ci.org/gustavomtborges/feabgoias.org)
+
 ## How to Use This Theme
 Just go ahead and read up on [how to install Jekyll](https://jekyllrb.com/). It's not too hard I promise!
 
