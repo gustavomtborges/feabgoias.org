@@ -1,7 +1,10 @@
+sudo: required
 language: ruby
 rvm:
   - 2.3.7
 
+install:
+- sudo pip install awscli
 script:
   bundle exec jekyll build
 
@@ -20,5 +23,5 @@ branches:
 
 cache: bundler
 
-notifications:
-  email: false
+after_deploy:
+aws cloudfront create-invalidation --distribution-id $CLOUDFRONT_DISTRIBUTION_ID --paths "/index.html"
