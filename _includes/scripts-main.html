@@ -7,7 +7,7 @@
 <script src="{{ "/assets/js/main.js" | absolute_url }}"></script>
 
 <script>
-	const shuffleArray = array => array.sort(() => Math.random() - .5);
+	const shuffleArray = array => array.sort(() => Math.random() - .7);
 	let logos = {{ site.data.logos | jsonify }};
 	let logosShuffled = shuffleArray(logos);
 	$('#logo1').attr('src', logosShuffled[0].img);
@@ -15,4 +15,6 @@
 	$('#logo3').attr('src', logosShuffled[2].img);
 	$('#logo4').attr('src', logosShuffled[3].img);
 	$('#logo5').attr('src', logosShuffled[4].img);
+	$('#logo6').attr('src', logosShuffled[5].img);
+	$('#logo7').attr('src', logosShuffled[6].img);
 </script>
