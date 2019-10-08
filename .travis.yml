@@ -7,7 +7,8 @@ before_install:
   - gem install bundler
 
 install:
-- sudo pip install awscli
+  - sudo pip install awscli
+  - bundle install
 script:
   bundle exec jekyll build
 
