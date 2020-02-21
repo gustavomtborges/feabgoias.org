@@ -1,6 +1,6 @@
 language: ruby
 rvm:
-  - 2.3.7
+  - 2.6.5
 
 before_install:
   - gem update --system
@@ -9,8 +9,7 @@ before_install:
 install:
   - sudo pip install awscli
   - bundle install
-script:
-  bundle exec jekyll build
+script: bundle exec jekyll build
 
 deploy:
   provider: s3
@@ -23,9 +22,8 @@ deploy:
 
 branches:
   only:
-  - master
+    - master
 
 cache: bundler
 
-after_deploy:
-  aws cloudfront create-invalidation --distribution-id $CLOUDFRONT_DISTRIBUTION_ID --paths "/index.html"
+after_deploy: aws cloudfront create-invalidation --distribution-id $CLOUDFRONT_DISTRIBUTION_ID --paths "/index.html"
